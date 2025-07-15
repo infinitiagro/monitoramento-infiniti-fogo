@@ -527,7 +527,6 @@
 					<name>INPASA - BALSAS - MA</name>
 					<Document id="Inpasa_Balsas_Buffer" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
 						<name>Inpasa_Balsas_Buffer</name>
-						<open>1</open>
 						<snippet></snippet>
 						<StyleMap id="PolyStyle00550">
 							<Pair>
@@ -1119,6 +1118,7 @@
 					<name>INPASA - DOURADOS - MS</name>
 					<Folder id="FeatureLayer0">
 						<name>matricula125949</name>
+						<open>1</open>
 						<snippet></snippet>
 						<Placemark id="ID_00000">
 							<name>Placemark</name>
@@ -1294,6 +1294,7 @@
 					</Folder>
 					<Folder id="FeatureLayer0">
 						<name>matricula156048</name>
+						<open>1</open>
 						<snippet></snippet>
 						<Placemark id="ID_00000">
 							<name>Placemark</name>
@@ -1551,6 +1552,7 @@
 			</Document>
 			<Document>
 				<name>INPASA - SIDROLANDIA - MS.kmz</name>
+				<open>1</open>
 				<Style id="PolyStyle001012">
 					<LabelStyle>
 						<color>00000000</color>
@@ -3087,7 +3089,7 @@
 				</Pair>
 			</StyleMap>
 			<Document id="root_doc">
-				<name>talhonamento1.kml</name>
+				<name>Talhonamento Fazenda Pindorama.kml</name>
 				<Schema name="talhonamento" id="talhonamento9">
 					<SimpleField type="float" name="id"></SimpleField>
 					<SimpleField type="string" name="status"></SimpleField>
@@ -3096,7 +3098,8 @@
 					<SimpleField type="float" name="area_ha"></SimpleField>
 				</Schema>
 				<Folder>
-					<name>talhonamento</name>
+					<name>Talhonamento Fazenda Pindorama</name>
+					<description>Talhonamento Fazenda Pindorama</description>
 					<Placemark>
 						<Style>
 							<LineStyle>
@@ -4446,6 +4449,8 @@
 			<Folder>
 				<name>perimetro</name>
 				<Placemark>
+					<name>Fazenda Pindorama</name>
+					<description>Fazenda Pindorama</description>
 					<styleUrl>#stylemap_id80</styleUrl>
 					<ExtendedData>
 						<SchemaData schemaUrl="#perimetro8">
@@ -4566,7 +4571,7 @@
 				</Pair>
 			</StyleMap>
 			<Document id="root_doc">
-				<name>talhonamento2.kml</name>
+				<name>Talhonamento Fazenda Renascença.kml</name>
 				<Schema name="talhonamento" id="talhonamento02">
 					<SimpleField type="int" name="Id"></SimpleField>
 					<SimpleField type="string" name="variedade"></SimpleField>
@@ -4574,7 +4579,8 @@
 					<SimpleField type="float" name="area_ha"></SimpleField>
 				</Schema>
 				<Folder>
-					<name>talhonamento</name>
+					<name>Talhonamento Fazenda Renascença</name>
+					<description>Talhonamento Fazenda Renascença</description>
 					<Placemark>
 						<Style>
 							<LineStyle>
@@ -5292,8 +5298,11 @@
 				</Folder>
 			</Document>
 			<Folder>
-				<name>perimetro</name>
+				<name>Fazenda Renascença</name>
+				<description>Fazenda Renascença</description>
 				<Placemark>
+					<name>Fazenda Renascença</name>
+					<description>Fazenda Renascença</description>
 					<styleUrl>#stylemap_id60</styleUrl>
 					<ExtendedData>
 						<SchemaData schemaUrl="#perimetro01">
@@ -5420,7 +5429,6 @@
 			</Style>
 			<Folder id="FeatureLayer0">
 				<name>Fazenda Corrientes</name>
-				<open>1</open>
 				<Snippet maxLines="0"></Snippet>
 				<Placemark id="ID_00000">
 					<name>Fazenda Corrientes</name>
@@ -5441,7 +5449,6 @@
 				</Placemark>
 				<Document id="Fazenda_Corrientes_Buffer" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
 					<name>Fazenda_Corrientes_Buffer</name>
-					<open>1</open>
 					<snippet></snippet>
 					<Style id="PolyStyle00460">
 						<LabelStyle>
@@ -5544,72 +5551,12 @@
 				</Pair>
 			</StyleMap>
 			<Folder id="FeatureLayer0">
-				<name>Area_propriedade_Japecanga (4751,530942 ha)</name>
+				<name>Fazenda Japecanga</name>
 				<Snippet maxLines="0"></Snippet>
 				<Placemark id="ID_00000">
-					<name>0</name>
+					<name>Fazenda Japecanga</name>
 					<Snippet maxLines="0"></Snippet>
-					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Id</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Area</td>
-
-<td>4751,530942</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
+					<description>Fazenda Japecanga</description>
 					<styleUrl>#PolyStyle00302</styleUrl>
 					<MultiGeometry>
 						<Polygon>
@@ -5625,7 +5572,7 @@
 				</Placemark>
 			</Folder>
 			<Document id="root_doc">
-				<name>talhonamento1.kml</name>
+				<name>Talhonamento Fazenda Japecanga.kml</name>
 				<Schema name="talhonamento" id="talhonamento11">
 					<SimpleField type="int" name="Id"></SimpleField>
 					<SimpleField type="string" name="status"></SimpleField>
@@ -5633,7 +5580,9 @@
 					<SimpleField type="float" name="area_ha"></SimpleField>
 				</Schema>
 				<Folder>
-					<name>talhonamento</name>
+					<name>Talhonamento Fazenda Japecanga</name>
+					<open>1</open>
+					<description>Talhonamento Fazenda Japecanga</description>
 					<Placemark>
 						<Style>
 							<LineStyle>
@@ -8668,7 +8617,7 @@
 						<width>2</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>00fad4fc</color>
+						<color>00ffffff</color>
 						<fill>0</fill>
 					</PolyStyle>
 				</Style>
@@ -8681,7 +8630,7 @@
 						<width>2</width>
 					</LineStyle>
 					<PolyStyle>
-						<color>00fad4fc</color>
+						<color>00ffffff</color>
 						<fill>0</fill>
 					</PolyStyle>
 				</Style>
@@ -8700,75 +8649,9 @@
 					<open>1</open>
 					<snippet></snippet>
 					<Placemark id="ID_00000">
-						<name>0</name>
+						<name>Fazenda 3 Fronteiras</name>
 						<snippet></snippet>
-						<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Id</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>area</td>
-
-<td>24132,043</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body><script type="text/javascript">
-
-				function changeImage(attElement, nameElement) {
-
-				document.getElementById('imageAttachment').src = attElement;
-
-				document.getElementById('imageName').innerHTML = nameElement;}
-
-			</script></html>]]></description>
+						<description>Fazenda 3 Fronteiras</description>
 						<styleUrl>#PolyStyle001313</styleUrl>
 						<MultiGeometry>
 							<Polygon>
@@ -13447,17 +13330,22 @@
 		</Folder>
 		<Document>
 			<name>FAZENDA SANTA LAURA</name>
-			<StyleMap id="default112">
+			<StyleMap id="msn_ylw-pushpin">
 				<Pair>
 					<key>normal</key>
-					<styleUrl>#default212</styleUrl>
+					<styleUrl>#sn_ylw-pushpin</styleUrl>
 				</Pair>
 				<Pair>
 					<key>highlight</key>
-					<styleUrl>#hl03</styleUrl>
+					<styleUrl>#sh_ylw-pushpin</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Style id="default212">
+			<Style id="sh_ylw-pushpin">
+				<IconStyle>
+					<scale>1.2</scale>
+				</IconStyle>
+				<BalloonStyle>
+				</BalloonStyle>
 				<LineStyle>
 					<width>2</width>
 				</LineStyle>
@@ -13465,10 +13353,9 @@
 					<color>00ffffff</color>
 				</PolyStyle>
 			</Style>
-			<Style id="hl03">
-				<IconStyle>
-					<scale>1.2</scale>
-				</IconStyle>
+			<Style id="sn_ylw-pushpin">
+				<BalloonStyle>
+				</BalloonStyle>
 				<LineStyle>
 					<width>2</width>
 				</LineStyle>
@@ -13478,7 +13365,6 @@
 			</Style>
 			<Document id="Áreas_Sinop_Buffer" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
 				<name>Áreas_Sinop_Buffer</name>
-				<open>1</open>
 				<snippet></snippet>
 				<StyleMap id="PolyStyle00191">
 					<Pair>
@@ -13564,7 +13450,22 @@
 					<SimpleField type="string" name="PERCENTUAL_SIGEF"></SimpleField>
 					<SimpleField type="string" name="AREA_HA"></SimpleField>
 				</Schema>
-				<Style id="default03">
+				<StyleMap id="msn_ylw-pushpin">
+					<Pair>
+						<key>normal</key>
+						<styleUrl>#sn_ylw-pushpin</styleUrl>
+					</Pair>
+					<Pair>
+						<key>highlight</key>
+						<styleUrl>#sh_ylw-pushpin</styleUrl>
+					</Pair>
+				</StyleMap>
+				<Style id="sh_ylw-pushpin">
+					<IconStyle>
+						<scale>1.2</scale>
+					</IconStyle>
+					<BalloonStyle>
+					</BalloonStyle>
 					<LineStyle>
 						<width>2</width>
 					</LineStyle>
@@ -13572,20 +13473,9 @@
 						<color>00ffffff</color>
 					</PolyStyle>
 				</Style>
-				<StyleMap id="default55">
-					<Pair>
-						<key>normal</key>
-						<styleUrl>#default03</styleUrl>
-					</Pair>
-					<Pair>
-						<key>highlight</key>
-						<styleUrl>#hl26</styleUrl>
-					</Pair>
-				</StyleMap>
-				<Style id="hl26">
-					<IconStyle>
-						<scale>1.2</scale>
-					</IconStyle>
+				<Style id="sn_ylw-pushpin">
+					<BalloonStyle>
+					</BalloonStyle>
 					<LineStyle>
 						<width>2</width>
 					</LineStyle>
@@ -13594,7 +13484,9 @@
 					</PolyStyle>
 				</Style>
 				<Placemark id="MVW_REQUERIMENTO_ATP.252940">
-					<styleUrl>#default55</styleUrl>
+					<name>LOTE 75-B</name>
+					<description>LOTE 75-B</description>
+					<styleUrl>#msn_ylw-pushpin</styleUrl>
 					<ExtendedData>
 						<SchemaData schemaUrl="#MVW_REQUERIMENTO_ATP_113">
 							<SimpleData name="OBJECTID">252940</SimpleData>
@@ -13629,7 +13521,8 @@
 			</Document>
 			<Placemark>
 				<name>Sítio Santa Laura</name>
-				<styleUrl>#default112</styleUrl>
+				<description>Sítio Santa Laura</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
 				<ExtendedData>
 					<Data name="qrcode">
 						<displayName>QRCode</displayName>
@@ -13694,78 +13587,13 @@
 				<description>New Group Layer</description>
 				<Folder id="FeatureLayer1">
 					<name>Fazenda_Santa_Helena</name>
+					<open>1</open>
 					<snippet></snippet>
 					<description>Fazenda_Santa_Helena</description>
 					<Placemark id="ID_10000">
-						<name>0</name>
+						<name>Fazenda_Santa_Helena</name>
 						<snippet></snippet>
-						<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Id</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>AREA</td>
-
-<td>199,5</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body><script type="text/javascript">
-
-				function changeImage(attElement, nameElement) {
-
-				document.getElementById('imageAttachment').src = attElement;
-
-				document.getElementById('imageName').innerHTML = nameElement;}
-
-			</script></html>]]></description>
+						<description>Fazenda_Santa_Helena</description>
 						<styleUrl>#PolyStyle10</styleUrl>
 						<MultiGeometry>
 							<Polygon>
@@ -13773,1027 +13601,6 @@
 									<LinearRing>
 										<coordinates>
 											-55.50795461922987,-12.02204930796962,0 -55.50797380445707,-12.02533647825811,0 -55.50797487512418,-12.02551994714642,0 -55.50799231608579,-12.02850324125324,0 -55.50561028027314,-12.02851527928632,0 -55.50312416972407,-12.02852777964209,0 -55.49648083001695,-12.0285616699474,0 -55.49643110981864,-12.01847277999879,0 -55.49795138980345,-12.01734471957059,0 -55.49850194033885,-12.01727277988678,0 -55.4991958303927,-12.01677082969753,0 -55.49975166963225,-12.01651832946351,0 -55.50049667001304,-12.01572193945633,0 -55.50082250039591,-12.0146049992778,0 -55.50079832974369,-12.01408555984557,0 -55.50063277985809,-12.0139547197801,0 -55.50023778029293,-12.01349971927977,0 -55.50040028044784,-12.01281777960851,0 -55.50127610976109,-12.01243610971683,0 -55.50180500045848,-12.01151027959478,0 -55.50232443985615,-12.01118332947614,0 -55.50312472031264,-12.01155443923733,0 -55.50409778044337,-12.01267499957229,0 -55.50482277991417,-12.0130152800562,0 -55.50542714345394,-12.01313081321777,0 -55.50593472038094,-12.01310221965763,0 -55.50690805998744,-12.01283499955207,0 -55.50789951475434,-12.01261198230057,0 -55.50795461922987,-12.02204930796962,0 
-										</coordinates>
-									</LinearRing>
-								</outerBoundaryIs>
-							</Polygon>
-						</MultiGeometry>
-					</Placemark>
-				</Folder>
-				<Folder id="FeatureLayer2">
-					<name>APP_Total</name>
-					<snippet></snippet>
-					<description>Área_preservação_permanente</description>
-					<Placemark id="ID_20000">
-						<snippet></snippet>
-						<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td></td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Id</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>area</td>
-
-<td>3,309</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body><script type="text/javascript">
-
-				function changeImage(attElement, nameElement) {
-
-				document.getElementById('imageAttachment').src = attElement;
-
-				document.getElementById('imageName').innerHTML = nameElement;}
-
-			</script></html>]]></description>
-						<styleUrl>#PolyStyle10</styleUrl>
-						<MultiGeometry>
-							<Polygon>
-								<outerBoundaryIs>
-									<LinearRing>
-										<coordinates>
-											-55.50651533331595,-12.01302581450475,0 -55.50698901163359,-12.01294552483118,0 -55.50730033983876,-12.01287589572105,0 -55.50786269940407,-12.01271617612573,0 -55.50787696445029,-12.01271292237851,0 -55.50788887866879,-12.01271137824257,0 -55.50790088371879,-12.01271086203169,0 -55.50791288876873,-12.01271137824257,0 -55.50792480298723,-12.01271292237851,0 -55.50793653464333,-12.01271548274837,0 -55.50794799470413,-12.01271903956705,0 -55.50795909683481,-12.01272356675428,0 -55.50796975559971,-12.01272902833703,0 -55.50797989005983,-12.01273538474523,0 -55.50798942377285,-12.01274258561686,0 -55.50799828389367,-12.01275057699259,0 -55.50800640207375,-12.01275929861779,0 -55.50801371715925,-12.01276868394267,0 -55.50802017339223,-12.01277866012211,0 -55.50802572220929,-12.01278915251244,0 -55.5080303204429,-12.01280008197325,0 -55.50803393391881,-12.01281136396832,0 -55.50803653475818,-12.01282291216273,0 -55.50803806900166,-12.01283425261369,0 -55.50803862568197,-12.0128456793996,0 -55.50803868054057,-12.01285507012043,0 -55.50803868233932,-12.01285584983264,0 -55.50803815893381,-12.01286766782367,0 -55.50803658961688,-12.01287939588246,0 -55.50803398877751,-12.01289094407686,0 -55.50803037530151,-12.01290222607194,0 -55.50802577706789,-12.01291315463346,0 -55.50802022825084,-12.01292364792308,0 -55.50801377201796,-12.01293362410251,0 -55.50800645693234,-12.01294300942738,0 -55.50799833875236,-12.0129517301533,0 -55.50798947863145,-12.01295972242832,0 -55.50797994491843,-12.01296692329986,0 -55.50796981045832,-12.01297327970815,0 -55.50795915169343,-12.01297874129098,0 -55.50794804956282,-12.01298326847814,0 -55.50793912289213,-12.01298613191944,0 -55.50737519400997,-12.01314629757867,0 -55.50736752639019,-12.01314824191287,0 -55.50704828954692,-12.0132196390901,0 -55.50704141962575,-12.01322099526776,0 -55.50655866535007,-12.01330282278213,0 -55.50654931240083,-12.01330408543025,0 -55.50622959801751,-12.01333628745475,0 -55.50622803319714,-12.01333639807133,0 -55.506227826353,-12.01333640616522,0 -55.50622710959336,-12.01333649969476,0 -55.50621501191326,-12.01333701500629,0 -55.50605710984771,-12.01333680546422,0 -55.50604510569697,-12.01333627306555,0 -55.5055813909684,-12.01329571543994,0 -55.50556966290961,-12.01329418749178,0 -55.50556804412992,-12.01329389611143,0 -55.50540604745111,-12.01326380839307,0 -55.50539514047329,-12.01326132716354,0 -55.50538447361451,-12.01325798258489,0 -55.50537337148383,-12.01325345539772,0 -55.50536271271893,-12.01324799291553,0 -55.50535257825882,-12.0132416374066,0 -55.5053430445458,-12.01323443653507,0 -55.50533418532437,-12.01322644426005,0 -55.50532606714427,-12.01321772263484,0 -55.50531875115939,-12.01320833820926,0 -55.50531229492643,-12.01319836113053,0 -55.50530674610937,-12.0131878687402,0 -55.50530214787575,-12.01317694017868,0 -55.50529853439983,-12.01316565818361,0 -55.50529593356048,-12.01315410908984,0 -55.50529436514281,-12.01314238103105,0 -55.50529384083803,-12.0131305630401,0 -55.50529436514281,-12.01311874504908,0 -55.50529593356048,-12.01310701699029,0 -55.50529853439983,-12.01309546789652,0 -55.50530214787575,-12.01308418680081,0 -55.50530674610937,-12.01307325734002,0 -55.50531229492643,-12.01306276494967,0 -55.50531875115939,-12.01305278787096,0 -55.50532606714427,-12.01304340344537,0 -55.50533418532437,-12.01303468182017,0 -55.5053430445458,-12.01302669044442,0 -55.50535257825882,-12.0130194895728,0 -55.50536271271893,-12.01301313316459,0 -55.50537337148383,-12.01300767158176,0 -55.50538447361451,-12.0130031443946,0 -55.50539593457469,-12.01299958757595,0 -55.50540766623078,-12.01299702720607,0 -55.50542371553195,-12.0129951880925,0 -55.50546167771424,-12.0129930495047,0 -55.50546954768141,-12.01299282827146,0 -55.50548155273144,-12.01299334448226,0 -55.50549346605057,-12.01299488861828,0 -55.50549508033367,-12.01299517819997,0 -55.5056137476763,-12.01301721428804,0 -55.50606390692367,-12.01305658570794,0 -55.50620794234257,-12.01305677366621,0 -55.50651533331595,-12.01302581450475,0 
-										</coordinates>
-									</LinearRing>
-								</outerBoundaryIs>
-							</Polygon>
-							<Polygon>
-								<outerBoundaryIs>
-									<LinearRing>
-										<coordinates>
-											-55.50182545518059,-12.01198561366021,0 -55.50182459183139,-12.01197046008369,0 -55.50182458643553,-12.01141125264228,0 -55.5018251107402,-12.01139943375197,0 -55.50182667915788,-12.01138770569318,0 -55.50182927999722,-12.01137615659941,0 -55.50183289347315,-12.01136487460434,0 -55.50183749260614,-12.0113539460429,0 -55.50184304052382,-12.01134345365248,0 -55.50184949765616,-12.01133347657377,0 -55.50185681274168,-12.01132409214817,0 -55.50186493092176,-12.01131537052306,0 -55.50187379014321,-12.01130737914733,0 -55.50188078956673,-12.01130196702724,0 -55.50188812893398,-12.01129701176277,0 -55.5018973074148,-12.01129123451796,0 -55.50190263679715,-12.01128804462267,0 -55.50191329556205,-12.01128258303985,0 -55.50192439769273,-12.01127805585269,0 -55.50193585775363,-12.01127449903402,0 -55.50194758940962,-12.01127193866416,0 -55.50195950362814,-12.01127039452813,0 -55.50197150867815,-12.01126987831733,0 -55.50198351372818,-12.01127039452813,0 -55.50199542704731,-12.01127193866415,0 -55.50200715870331,-12.01127449903402,0 -55.50201861966357,-12.01127805585269,0 -55.50202972089489,-12.01128258303985,0 -55.50204037965978,-12.01128804462267,0 -55.50205051501917,-12.01129440103087,0 -55.50206004783292,-12.01130160190251,0 -55.50206890795364,-12.01130959327816,0 -55.5020770261338,-12.01131831490336,0 -55.50208434121934,-12.01132770022833,0 -55.50209079745229,-12.01133767640776,0 -55.50209634626925,-12.011348168798,0 -55.50210094450298,-12.01135909825881,0 -55.50210455797897,-12.01137038025387,0 -55.50210715881826,-12.01138192844837,0 -55.5021087281352,-12.01139365650716,0 -55.50210925154069,-12.01140547449819,0 -55.50210925423863,-12.01196234999757,0 -55.50215781942783,-12.01238736509987,0 -55.50220049585608,-12.01236110309742,0 -55.50220463903281,-12.01235865154558,0 -55.50221580231734,-12.01235295883706,0 -55.50234304919233,-12.01229516300645,0 -55.5023536468033,-12.01229086694498,0 -55.50235660647215,-12.01228984351653,0 -55.50261903494045,-12.01220242581635,0 -55.50263361924603,-12.01219843192722,0 -55.50276289409224,-12.0121704630115,0 -55.50276854273407,-12.01216936224127,0 -55.50278233653555,-12.01216766971728,0 -55.50302723811652,-12.01214989911362,0 -55.50303736358338,-12.01214953219024,0 -55.50304936863339,-12.01215004840105,0 -55.50305010068151,-12.01215014282987,0 -55.5030507526901,-12.01215017430611,0 -55.50330012480087,-12.01217414933252,0 -55.50331065496269,-12.01217556756348,0 -55.50332026242009,-12.01217758564216,0 -55.50359591721774,-12.0122456805088,0 -55.50360742134536,-12.01224905296648,0 -55.50389426550791,-12.01234673103186,0 -55.50389634653916,-12.0123474576841,0 -55.50390619051823,-12.01235141470104,0 -55.50402839399516,-12.01240604491809,0 -55.50404031091158,-12.01241207667105,0 -55.5040504453717,-12.01241843307926,0 -55.50405997908472,-12.01242563395089,0 -55.50406839134317,-12.0124331873567,0 -55.50407614080121,-12.01244139906633,0 -55.50409022598304,-12.01245761923873,0 -55.50409104166816,-12.01245856712423,0 -55.50409835675377,-12.01246795154983,0 -55.50410481298665,-12.01247792862855,0 -55.5041103618037,-12.01248842101888,0 -55.50411496093669,-12.0124993495804,0 -55.5041185744126,-12.01251063157538,0 -55.50412117525197,-12.01252218066916,0 -55.50412274366964,-12.01253390872795,0 -55.50412326707514,-12.01254572671897,0 -55.50412274366964,-12.01255754471,0 -55.50412117525197,-12.01256927276871,0 -55.5041185744126,-12.01258082186247,0 -55.50411496093668,-12.01259210295826,0 -55.5041103618037,-12.01260303241907,0 -55.50410481298665,-12.0126135248094,0 -55.50409835675377,-12.0126235018882,0 -55.50409104166816,-12.01263288631371,0 -55.50408292348808,-12.01264160793891,0 -55.50407406336726,-12.01264959931457,0 -55.50406453055361,-12.01265680108557,0 -55.50405439519412,-12.01266315659439,0 -55.50404373642924,-12.01266861907659,0 -55.50403263429854,-12.01267314536439,0 -55.50402117423774,-12.01267670308241,0 -55.50400944258165,-12.01267926345228,0 -55.50399752836315,-12.01268080758822,0 -55.50398552331322,-12.01268132289974,0 -55.50397351826321,-12.01268080758822,0 -55.5039616040448,-12.01267926345228,0 -55.50394987238871,-12.01267670308241,0 -55.5039384123278,-12.01267314536439,0 -55.50392856834875,-12.01266918834745,0 -55.50379472674516,-12.01260935555237,0 -55.50352041283678,-12.01251594566943,0 -55.50326157536132,-12.01245199667738,0 -55.50303560990547,-12.01243026815742,0 -55.50281374176072,-12.01244637141802,0 -55.5027026242267,-12.01247041659151,0 -55.50245523152368,-12.01255282686647,0 -55.50234350155129,-12.01260357111296,0 -55.50212724427679,-12.01273664559478,0 -55.50193620579123,-12.01290382146926,0 -55.50177047332863,-12.01311888264532,0 -55.50163894837876,-12.01334971793015,0 -55.50155819195695,-12.01356593563443,0 -55.50150948467492,-12.01378727227978,0 -55.50143218614645,-12.0147389285737,0 -55.5014308299688,-12.01474993627557,0 -55.50138920304929,-12.01500131837114,0 -55.50138890447435,-12.01500304866669,0 -55.5013864493251,-12.01501405726792,0 -55.50138622629328,-12.01501489004018,0 -55.50138238888609,-12.01502692206976,0 -55.50130304350062,-12.01523934643364,0 -55.50129933289787,-12.01524828299686,0 -55.50129498647438,-12.01525693807218,0 -55.50129436504285,-12.01525807121793,0 -55.50129243060118,-12.01526148234647,0 -55.50128376743189,-12.01527447305347,0 -55.50122129422734,-12.01535737076101,0 -55.50121618607805,-12.01536374155841,0 -55.50121048617492,-12.01537002152429,0 -55.50120971905325,-12.01537081562561,0 -55.5011984406555,-12.01538124866067,0 -55.50119752604496,-12.01538199779591,0 -55.50111112637737,-12.0154521188352,0 -55.50111021086748,-12.01545286527241,0 -55.50110487968639,-12.0154568384773,0 -55.50110169069039,-12.01545924955974,0 -55.50110139481347,-12.01545943571936,0 -55.50110110343312,-12.01545965245594,0 -55.50109166324964,-12.01546555020996,0 -55.50109145640559,-12.0154656734171,0 -55.50097719574102,-12.01553087606402,0 -55.50097016484115,-12.01553461724374,0 -55.50059423653479,-12.01572094418117,0 -55.50057940221766,-12.01572725202599,0 -55.50056794125748,-12.01573080884474,0 -55.50055620960138,-12.01573336921452,0 -55.50054429538288,-12.01573491335054,0 -55.50053229033286,-12.01573542956135,0 -55.50052028528292,-12.01573491335054,0 -55.50050837106442,-12.01573336921452,0 -55.50049663940834,-12.01573080884474,0 -55.50048517844815,-12.01572725202599,0 -55.50047407631755,-12.01572272483883,0 -55.50046341755267,-12.01571726325601,0 -55.50045328309246,-12.0157109068478,0 -55.50044374937944,-12.01570370597617,0 -55.50043488925872,-12.01569571370116,0 -55.50042677107863,-12.01568699297532,0 -55.50041945599303,-12.01567760765045,0 -55.50041299886076,-12.01566763147101,0 -55.50040745004372,-12.01565713818131,0 -55.50040285181012,-12.01564620961988,0 -55.50039923833411,-12.01563492762481,0 -55.50039663749474,-12.01562337853103,0 -55.50039506907707,-12.01561165047225,0 -55.50039454477238,-12.0155998324813,0 -55.50039506907707,-12.01558801449027,0 -55.50039663749474,-12.01557628643149,0 -55.50039989573855,-12.01556240719434,0 -55.5004033464372,-12.01555057751214,0 -55.50040630250877,-12.0155416265598,0 -55.50041090164176,-12.01553069799828,0 -55.50041645045881,-12.01552020470866,0 -55.50042290669177,-12.01551022852923,0 -55.50043022177729,-12.01550084320427,0 -55.50043834085675,-12.01549212247844,0 -55.50044720007819,-12.01548413020341,0 -55.50045673379121,-12.01547692933178,0 -55.50046686825132,-12.01547057292359,0 -55.50047379572904,-12.01546689199842,0 -55.50083828465908,-12.01528623528644,0 -55.50093844575264,-12.01522909236369,0 -55.50100301437757,-12.01517667178097,0 -55.5010429307866,-12.01512370620904,0 -55.50111042850344,-12.01494300183305,0 -55.50114890150058,-12.01471069166009,0 -55.50122651209382,-12.01375529508582,0 -55.50122816684634,-12.0137425579877,0 -55.5012291965701,-12.01373739587908,0 -55.5012821486522,-12.01349676967516,0 -55.50128443652751,-12.0134878484005,0 -55.50128740968612,-12.01347889564952,0 -55.50137567184975,-12.01324255201721,0 -55.50137853978774,-12.01323549054048,0 -55.50138336824776,-12.01322553504547,0 -55.50138512642242,-12.01322235144542,0 -55.5015271626484,-12.01297308905186,0 -55.50152800711183,-12.01297162855285,0 -55.50153755341533,-12.0129574786198,0 -55.50171782701608,-12.01272353168066,0 -55.50172205203099,-12.01271832010948,0 -55.50172645061516,-12.01271340531442,0 -55.50172705765758,-12.01271275960125,0 -55.50173666691354,-12.01270348579232,0 -55.50189195015333,-12.01256761441889,0 -55.50182545518059,-12.01198561366021,0 
-										</coordinates>
-									</LinearRing>
-								</outerBoundaryIs>
-							</Polygon>
-						</MultiGeometry>
-					</Placemark>
-				</Folder>
-				<Folder id="FeatureLayer3">
-					<name>Hidrografia</name>
-					<snippet></snippet>
-					<description>APP</description>
-					<Placemark id="ID_30000">
-						<name>Ate 10m</name>
-						<snippet></snippet>
-						<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>Ate 10m</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>CLASSE</td>
-
-<td>1</td>
-
-</tr>
-
-<tr>
-
-<td>CATEGORIA</td>
-
-<td>Ate 10m</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body><script type="text/javascript">
-
-				function changeImage(attElement, nameElement) {
-
-				document.getElementById('imageAttachment').src = attElement;
-
-				document.getElementById('imageName').innerHTML = nameElement;}
-
-			</script></html>]]></description>
-						<styleUrl>#PolyStyle10</styleUrl>
-						<MultiGeometry>
-							<Polygon>
-								<outerBoundaryIs>
-									<LinearRing>
-										<coordinates>
-											-55.50204079100002,-12.01262852861539,0 -55.50203921799999,-12.01262792861543,0 -55.50203797099997,-12.01262680961542,0 -55.50203721899999,-12.01262532261539,0 -55.50203707199999,-12.01262459061542,0 -55.50203680834129,-12.01262228292449,0 -55.50196233600002,-12.0119704586154,0 -55.50196233051703,-12.0114112515242,0 -55.50197150862739,-12.01140547455722,0 -55.50197151099998,-12.01196995261536,0 -55.50204538508576,-12.01261646634457,0 -55.50204619800003,-12.01262358061542,0 -55.50204620700003,-12.01262366861534,0 -55.50204605100002,-12.01262532261539,0 -55.50204529899996,-12.01262680961542,0 -55.50204405200002,-12.01262792861543,0 -55.502042479,-12.01262852861539,0 -55.50204079100002,-12.01262852861539,0 
-										</coordinates>
-									</LinearRing>
-								</outerBoundaryIs>
-							</Polygon>
-						</MultiGeometry>
-					</Placemark>
-					<Placemark id="ID_30001">
-						<name>Ate 10m</name>
-						<snippet></snippet>
-						<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>Ate 10m</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>CLASSE</td>
-
-<td>1</td>
-
-</tr>
-
-<tr>
-
-<td>CATEGORIA</td>
-
-<td>Ate 10m</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body><script type="text/javascript">
-
-				function changeImage(attElement, nameElement) {
-
-				document.getElementById('imageAttachment').src = attElement;
-
-				document.getElementById('imageName').innerHTML = nameElement;}
-
-			</script></html>]]></description>
-						<styleUrl>#PolyStyle10</styleUrl>
-						<MultiGeometry>
-							<Polygon>
-								<outerBoundaryIs>
-									<LinearRing>
-										<coordinates>
-											-55.50653404400001,-12.0131602336154,0 -55.50701597600001,-12.01307854561539,0 -55.50733471900001,-12.01300725861536,0 -55.50790088385775,-12.01284645825922,0 -55.5079009386914,-12.01285584920751,0 -55.50733701000001,-12.01301601461537,0 -55.50701777299998,-12.01308741161533,0 -55.50653529200003,-12.01316919261534,0 -55.50621557800003,-12.01320139461534,0 -55.50621543100003,-12.01320138861534,0 -55.506215105,-12.01320141861534,0 -55.50605729599999,-12.01320120861533,0 -55.50559358200001,-12.01316065061535,0 -55.50543158531176,-12.01313056299256,0 -55.50546954750178,-12.01312842445139,0 -55.50559484100001,-12.01315169061541,0 -55.50605770900003,-12.01319217361538,0 -55.50621487999997,-12.0131923786154,0 -55.50653404400001,-12.0131602336154,0 
-										</coordinates>
-									</LinearRing>
-								</outerBoundaryIs>
-							</Polygon>
-							<Polygon>
-								<outerBoundaryIs>
-									<LinearRing>
-										<coordinates>
-											-55.50303736399998,-12.0122851286154,0 -55.50328673599999,-12.01230910361544,0 -55.50356239099998,-12.01237719861539,0 -55.50384923600001,-12.01247487661539,0 -55.5039714388068,-12.01252950658358,0 -55.50398552367555,-12.01254572649104,0 -55.50384583099999,-12.01248327761536,0 -55.50355976800004,-12.01238586661539,0 -55.50328516599997,-12.01231802261538,0 -55.50303725399997,-12.01229418461536,0 -55.50279378999998,-12.0123118546154,0 -55.50266565000003,-12.01233958361538,0 -55.50240415999998,-12.0124266896154,0 -55.50227788100002,-12.01248404161543,0 -55.50204439699997,-12.01262771661542,0 -55.50183461400002,-12.01281129561541,0 -55.50165498699999,-12.01304438661541,0 -55.50151344900001,-12.01329279661535,0 -55.50142560000002,-12.01352800261535,0 -55.50137291300001,-12.01376742561536,0 -55.50129487900005,-12.01472812061531,0 -55.50125325199997,-12.01497950261533,0 -55.50125302899995,-12.01498033561531,0 -55.50117376099997,-12.01519255061528,0 -55.50117314000001,-12.01519368361528,0 -55.50111066699997,-12.0152765816153,0 -55.50110990000001,-12.01527737561528,0 -55.50102258399998,-12.01534824361528,0 -55.50090821900002,-12.01541350561534,0 -55.50053229062875,-12.01559983268245,0 -55.50053574156294,-12.01558800294747,0 -55.50090384900003,-12.01540555261531,0 -55.50101733299999,-12.01534080861528,0 -55.50110362500003,-12.01527075261535,0 -55.50116537099997,-12.01518882061532,0 -55.50124425900002,-12.01497762161534,0 -55.50128575900001,-12.01472703161532,0 -55.50136381899996,-12.01376610361533,0 -55.50141677100001,-12.01352547761532,0 -55.50150495700002,-12.01328933961533,0 -55.50150515600003,-12.01328888461538,0 -55.50150526100004,-12.01328868861537,0 -55.50164729699998,-12.01303942661536,0 -55.50182756999997,-12.01280547961538,0 -55.50182817700001,-12.0128048336154,0 -55.50203680834129,-12.01262228292449,0 -55.50203888299997,-12.01262046761534,0 -55.50204538508576,-12.01261646634457,0 -55.50227351100001,-12.01247608161539,0 -55.50240075799997,-12.0124182856154,0 -55.50266318700001,-12.01233086761537,0 -55.50279246199996,-12.01230289861537,0 -55.50303736399998,-12.0122851286154,0 
-										</coordinates>
-									</LinearRing>
-								</outerBoundaryIs>
-							</Polygon>
-						</MultiGeometry>
-					</Placemark>
-				</Folder>
-				<Folder id="FeatureLayer4">
-					<name>Embargo</name>
-					<snippet></snippet>
-					<description>Embargo</description>
-					<Placemark id="ID_40000">
-						<name>MILTON CEOLATTO JUNIOR</name>
-						<snippet></snippet>
-						<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>MILTON CEOLATTO JUNIOR</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>FID_Fazend</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Id</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>AREA</td>
-
-<td>5,148</td>
-
-</tr>
-
-<tr>
-
-<td>FID_AREAS_</td>
-
-<td>6736</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>NOME</td>
-
-<td>MILTON CEOLATTO JUNIOR</td>
-
-</tr>
-
-<tr>
-
-<td>CPF_CNPJ</td>
-
-<td>032.159.761-37</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>PROPRIEDAD</td>
-
-<td>LOTE N9 79-A</td>
-
-</tr>
-
-<tr>
-
-<td>DANO</td>
-
-<td>DESMATE A CORTE RASO</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>ANO_DESMAT</td>
-
-<td>2020</td>
-
-</tr>
-
-<tr>
-
-<td>A_INFRAC</td>
-
-<td>210434022</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>T_EMBARGO</td>
-
-<td>210442673</td>
-
-</tr>
-
-<tr>
-
-<td>DAT_LAVRAT</td>
-
-<td>09/11/2021</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>N_PROCESSO</td>
-
-<td>542988/2021</td>
-
-</tr>
-
-<tr>
-
-<td>COORD_X</td>
-
-<td>552 30' 15,536" W</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>COORD_Y</td>
-
-<td>122 1' 58,366" S</td>
-
-</tr>
-
-<tr>
-
-<td>FONTE</td>
-
-<td>SCCON</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>OBS</td>
-
-<td></td>
-
-</tr>
-
-<tr>
-
-<td>AREA_HA</td>
-
-<td>29,137898</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body><script type="text/javascript">
-
-				function changeImage(attElement, nameElement) {
-
-				document.getElementById('imageAttachment').src = attElement;
-
-				document.getElementById('imageName').innerHTML = nameElement;}
-
-			</script></html>]]></description>
-						<styleUrl>#PolyStyle10</styleUrl>
-						<MultiGeometry>
-							<Polygon>
-								<outerBoundaryIs>
-									<LinearRing>
-										<coordinates>
-											-55.50346834523161,-12.02583341549128,0 -55.5051228523685,-12.02608315351188,0 -55.50513611236961,-12.02705776959245,0 -55.50515597416443,-12.02851756522716,0 -55.50347435653888,-12.02852602021653,0 -55.50346834523161,-12.02583341549128,0 
-										</coordinates>
-									</LinearRing>
-								</outerBoundaryIs>
-							</Polygon>
-						</MultiGeometry>
-					</Placemark>
-				</Folder>
-				<Folder id="FeatureLayer5">
-					<name>Área_Consolidada_</name>
-					<snippet></snippet>
-					<description>Área_Consolidada_</description>
-					<Placemark id="ID_50000">
-						<name>1870</name>
-						<snippet></snippet>
-						<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>1870</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>MI</td>
-
-<td>1870</td>
-
-</tr>
-
-<tr>
-
-<td>ARTICULACA</td>
-
-<td>SD 21 X-A-III</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>AREA</td>
-
-<td>109,02</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body><script type="text/javascript">
-
-				function changeImage(attElement, nameElement) {
-
-				document.getElementById('imageAttachment').src = attElement;
-
-				document.getElementById('imageName').innerHTML = nameElement;}
-
-			</script></html>]]></description>
-						<styleUrl>#PolyStyle10</styleUrl>
-						<MultiGeometry>
-							<Polygon>
-								<outerBoundaryIs>
-									<LinearRing>
-										<coordinates>
-											-55.50453847415766,-12.01355040742702,0 -55.50459691563332,-12.01351794650383,0 -55.50463886196355,-12.01345808606055,0 -55.50471040852626,-12.01331662809673,0 -55.50486108574026,-12.01336457265403,0 -55.50484162793174,-12.01341547249393,0 -55.505068548883,-12.01352046886019,0 -55.50528119161426,-12.01369912918974,0 -55.50541630440623,-12.01385006362233,0 -55.50537346917362,-12.0140710560211,0 -55.50555601683381,-12.01417308369967,0 -55.50573313651176,-12.01425323322935,0 -55.50595784153515,-12.01425716536503,0 -55.5064324395961,-12.01406818094342,0 -55.50734342217569,-12.01395355953852,0 -55.50790741587427,-12.01396514720109,0 -55.50795461922991,-12.02204930796955,0 -55.50797380445708,-12.02533647825804,0 -55.5079748751242,-12.02551994714639,0 -55.50799231608575,-12.02850324125325,0 -55.50561028027316,-12.02851527928631,0 -55.50507674848323,-12.02851796192531,0 -55.50508770636564,-12.02842055670516,0 -55.50505201536268,-12.02627904352803,0 -55.50501632235973,-12.02608868451237,0 -55.50467130133109,-12.02598160950344,0 -55.50371951525243,-12.02589832849655,0 -55.50371976425245,-12.02591525649795,0 -55.50355295423865,-12.02582694549064,0 -55.5033744932238,-12.02586263649367,0 -55.50327931621592,-12.02596971250245,0 -55.50326742021502,-12.02619576152123,0 -55.50326742021502,-12.02852705936757,0 -55.50312416972409,-12.02852777964208,0 -55.50048952562857,-12.02854122000442,0 -55.50048951198509,-12.02164313214469,0 -55.50066233899939,-12.02164761114496,0 -55.50201425011134,-12.02168263314787,0 -55.50205939593246,-12.02163748594606,0 -55.50208645514405,-12.02163823128159,0 -55.50208727970029,-12.02160960155891,0 -55.50212846212069,-12.0215684191385,0 -55.5022168961281,-12.02147998613119,0 -55.50224267813023,-12.02145420312897,0 -55.50236641114039,-12.02084268407839,0 -55.5024972791513,-12.02055714905477,0 -55.50252107315318,-12.01980761699287,0 -55.50231882013654,-12.01865357989742,0 -55.50229902200647,-12.01862322317433,0 -55.5022932842538,-12.01857040699739,0 -55.502301312135,-12.0185470258886,0 -55.50234804213886,-12.01733932278871,0 -55.5022444891303,-12.01683295374675,0 -55.50225626413127,-12.01624957069857,0 -55.50224088819386,-12.01549661842741,0 -55.50224757702841,-12.01530113927507,0 -55.50224581643514,-12.01465614742868,0 -55.5022339673163,-12.01455120875129,0 -55.50220801032694,-12.01442871528676,0 -55.50227280036374,-12.01427174962621,0 -55.50242834690685,-12.01407856381522,0 -55.50261539925337,-12.01396769889363,0 -55.50288956019957,-12.01383807320381,0 -55.50321164172486,-12.01371219962665,0 -55.50345715184463,-12.01362611794034,0 -55.50365879079985,-12.01358666734235,0 -55.5039365990995,-12.01351987596174,0 -55.50408630639842,-12.01353979494563,0 -55.50436084273546,-12.01356311282206,0 -55.50453847415766,-12.01355040742702,0 
-										</coordinates>
-									</LinearRing>
-								</outerBoundaryIs>
-							</Polygon>
-						</MultiGeometry>
-					</Placemark>
-					<Placemark id="ID_50001">
-						<name>1871</name>
-						<snippet></snippet>
-						<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>1871</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>MI</td>
-
-<td>1871</td>
-
-</tr>
-
-<tr>
-
-<td>ARTICULACA</td>
-
-<td>SD 21 X-B-I</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>AREA</td>
-
-<td>33,686</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body><script type="text/javascript">
-
-				function changeImage(attElement, nameElement) {
-
-				document.getElementById('imageAttachment').src = attElement;
-
-				document.getElementById('imageName').innerHTML = nameElement;}
-
-			</script></html>]]></description>
-						<styleUrl>#PolyStyle10</styleUrl>
-						<MultiGeometry>
-							<Polygon>
-								<outerBoundaryIs>
-									<LinearRing>
-										<coordinates>
-											-55.49644609081778,-12.02151262410316,0 -55.50046888298339,-12.02162769814341,0 -55.50046956245968,-12.02854132184446,0 -55.49648083001694,-12.0285616699474,0 -55.49644609081778,-12.02151262410316,0 
-										</coordinates>
-									</LinearRing>
-								</outerBoundaryIs>
-							</Polygon>
-						</MultiGeometry>
-					</Placemark>
-				</Folder>
-				<Folder id="FeatureLayer6">
-					<name>Área_Consolidada</name>
-					<snippet></snippet>
-					<description>Área_Consolidada</description>
-					<Placemark id="ID_60000">
-						<name>1870</name>
-						<snippet></snippet>
-						<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>1870</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>MI</td>
-
-<td>1870</td>
-
-</tr>
-
-<tr>
-
-<td>ARTICULACA</td>
-
-<td>SD 21 X-A-III</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body><script type="text/javascript">
-
-				function changeImage(attElement, nameElement) {
-
-				document.getElementById('imageAttachment').src = attElement;
-
-				document.getElementById('imageName').innerHTML = nameElement;}
-
-			</script></html>]]></description>
-						<styleUrl>#PolyStyle10</styleUrl>
-						<MultiGeometry>
-							<Polygon>
-								<outerBoundaryIs>
-									<LinearRing>
-										<coordinates>
-											-55.50269953616803,-12.01372809548997,0 -55.50384167526252,-12.01338307246144,0 -55.50450792331756,-12.0132522054507,0 -55.50467724433156,-12.01330607545516,0 -55.50487049134756,-12.01336756546015,0 -55.50503140736087,-12.01341876546447,0 -55.50528124738164,-12.01357342947727,0 -55.50556678640518,-12.01390655350474,0 -55.50567385841413,-12.01397793851063,0 -55.50595939643766,-12.01395414550876,0 -55.50632821046818,-12.01379947849596,0 -55.50660184949081,-12.01369954048769,0 -55.50693021451799,-12.01355677247589,0 -55.50724430254397,-12.0133997304629,0 -55.50752983856761,-12.013328344457,0 -55.50775826658658,-12.01338545246163,0 -55.50790415273251,-12.01340629365244,0 -55.50795461922987,-12.02204930796958,0 -55.50797380445707,-12.02533647825808,0 -55.50797487512418,-12.02551994714642,0 -55.50799231608575,-12.02850324125328,0 -55.50561028027315,-12.02851527928634,0 -55.50507674848319,-12.02851796192534,0 -55.50508770636563,-12.02842055670518,0 -55.50505201536267,-12.02627904352806,0 -55.50501632235972,-12.02608868451241,0 -55.50467130133109,-12.02598160950346,0 -55.50371951525242,-12.02589832849657,0 -55.50371976425244,-12.02591525649798,0 -55.50355295423864,-12.02582694549067,0 -55.50337449322378,-12.02586263649371,0 -55.50327931621591,-12.02596971250248,0 -55.50326742021502,-12.02619576152127,0 -55.50326742021502,-12.0285270593676,0 -55.50312416972407,-12.02852777964211,0 -55.50048952562857,-12.02854122000445,0 -55.50048951198508,-12.02164313214472,0 -55.50066233899938,-12.02164761114499,0 -55.50201425011133,-12.02168263314789,0 -55.50207964811673,-12.02161723314248,0 -55.50212846212069,-12.02156841913854,0 -55.50221689612808,-12.02147998613122,0 -55.50224267813023,-12.02145420312899,0 -55.50236641114037,-12.02084268407842,0 -55.50249727915129,-12.02055714905481,0 -55.50252107315318,-12.0198076169929,0 -55.50231882013653,-12.01865357989745,0 -55.5022833831335,-12.01859924389287,0 -55.50230131213499,-12.01854702588864,0 -55.50234804213886,-12.01733932278875,0 -55.50224448913028,-12.01683295374678,0 -55.50225626413126,-12.01624957069861,0 -55.50222841012895,-12.01488557358571,0 -55.50214036012167,-12.01484644158256,0 -55.50192620610405,-12.01478695557764,0 -55.50191431310297,-12.01454900955796,0 -55.50195000310592,-12.01425157653336,0 -55.50221174412758,-12.01402552751466,0 -55.50269953616803,-12.01372809548997,0 
-										</coordinates>
-									</LinearRing>
-								</outerBoundaryIs>
-							</Polygon>
-						</MultiGeometry>
-					</Placemark>
-					<Placemark id="ID_60001">
-						<name>1871</name>
-						<snippet></snippet>
-						<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>1871</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>MI</td>
-
-<td>1871</td>
-
-</tr>
-
-<tr>
-
-<td>ARTICULACA</td>
-
-<td>SD 21 X-B-I</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body><script type="text/javascript">
-
-				function changeImage(attElement, nameElement) {
-
-				document.getElementById('imageAttachment').src = attElement;
-
-				document.getElementById('imageName').innerHTML = nameElement;}
-
-			</script></html>]]></description>
-						<styleUrl>#PolyStyle10</styleUrl>
-						<MultiGeometry>
-							<Polygon>
-								<outerBoundaryIs>
-									<LinearRing>
-										<coordinates>
-											-55.49644609081777,-12.02151262410318,0 -55.50046888298337,-12.02162769814344,0 -55.50046956245968,-12.0285413218445,0 -55.49648083001693,-12.02856166994744,0 -55.49644609081777,-12.02151262410318,0 
-										</coordinates>
-									</LinearRing>
-								</outerBoundaryIs>
-							</Polygon>
-						</MultiGeometry>
-					</Placemark>
-				</Folder>
-				<Folder id="FeatureLayer7">
-					<name>Reserva Legal</name>
-					<snippet></snippet>
-					<description>Reserva Legal</description>
-					<Placemark id="ID_70000">
-						<name>0</name>
-						<snippet></snippet>
-						<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Id</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>area</td>
-
-<td>46,469</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body><script type="text/javascript">
-
-				function changeImage(attElement, nameElement) {
-
-				document.getElementById('imageAttachment').src = attElement;
-
-				document.getElementById('imageName').innerHTML = nameElement;}
-
-			</script></html>]]></description>
-						<styleUrl>#PolyStyle10</styleUrl>
-						<MultiGeometry>
-							<Polygon>
-								<outerBoundaryIs>
-									<LinearRing>
-										<coordinates>
-											-55.49644603827146,-12.02150106590797,0 -55.49643578989696,-12.01942206557411,0 -55.49643560401166,-12.01938436578685,0 -55.49643110981864,-12.01847277999879,0 -55.49759325236614,-12.01761046224213,0 -55.49763606076511,-12.01757869790445,0 -55.49795138980345,-12.01734471957059,0 -55.49850194033885,-12.01727277988678,0 -55.4991958303927,-12.01677082969753,0 -55.49975166963225,-12.01651832946351,0 -55.50007402805888,-12.01617373586296,0 -55.50009267219056,-12.01615380568158,0 -55.50049667001304,-12.01572193945633,0 -55.50082250039591,-12.0146049992778,0 -55.50079832974369,-12.01408555984557,0 -55.5007159319041,-12.0140204378774,0 -55.50069799265292,-12.01400625983684,0 -55.50063277985809,-12.0139547197801,0 -55.50023778029293,-12.01349971927977,0 -55.50040028044784,-12.01281777960851,0 -55.50127610976109,-12.01243610971683,0 -55.5016260054822,-12.01182361289875,0 -55.50164067408021,-12.01179793596846,0 -55.50180500045848,-12.01151027959478,0 -55.50232443985615,-12.01118332947614,0 -55.50312472031264,-12.01155443923733,0 -55.50409778044337,-12.01267499957229,0 -55.50465654635042,-12.01293725810921,0 -55.50467067773195,-12.01294389096262,0 -55.50482277991417,-12.0130152800562,0 -55.50485929379082,-12.01302226026698,0 -55.50463886196355,-12.01345808606057,0 -55.50459691563334,-12.01351794650387,0 -55.50453847415762,-12.01355040742703,0 -55.50436084273549,-12.01356311282207,0 -55.50408630639842,-12.01353979494565,0 -55.50393659909953,-12.01351987596173,0 -55.50365879079988,-12.01358666734233,0 -55.50345715184462,-12.01362611794034,0 -55.50321164172482,-12.01371219962663,0 -55.50288956019962,-12.01383807320379,0 -55.50261539925333,-12.01396769889366,0 -55.50242834690683,-12.01407856381522,0 -55.50227280036374,-12.01427174962617,0 -55.50220801032695,-12.01442871528675,0 -55.5022339673163,-12.01455120875127,0 -55.50224581643516,-12.01465614742868,0 -55.50224757702837,-12.01530113927505,0 -55.50222216257326,-12.01604386898096,0 -55.50222145788023,-12.0171345670433,0 -55.5022523615587,-12.01819371242082,0 -55.50236786331755,-12.01925690940767,0 -55.50242751422134,-12.01944499387574,0 -55.50238420406919,-12.02022142514899,0 -55.50237345704146,-12.02059689708077,0 -55.50225291905465,-12.02122782332649,0 -55.50224462354804,-12.02129299126063,0 -55.50217531676617,-12.0213031072367,0 -55.50209304883655,-12.02140928925093,0 -55.50208645514405,-12.02163823128162,0 -55.49886489582106,-12.02154949467293,0 -55.49644603827146,-12.02150106590797,0 
-										</coordinates>
-									</LinearRing>
-								</outerBoundaryIs>
-							</Polygon>
-						</MultiGeometry>
-					</Placemark>
-					<Placemark id="ID_70001">
-						<name>0</name>
-						<snippet></snippet>
-						<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Id</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>area</td>
-
-<td>3,834</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body><script type="text/javascript">
-
-				function changeImage(attElement, nameElement) {
-
-				document.getElementById('imageAttachment').src = attElement;
-
-				document.getElementById('imageName').innerHTML = nameElement;}
-
-			</script></html>]]></description>
-						<styleUrl>#PolyStyle10</styleUrl>
-						<MultiGeometry>
-							<Polygon>
-								<outerBoundaryIs>
-									<LinearRing>
-										<coordinates>
-											-55.50760005395713,-12.01267934325654,0 -55.5077393122919,-12.01264801841841,0 -55.50789951475434,-12.01261198230057,0 -55.50790741816591,-12.01396514718767,0 -55.50734342217566,-12.01395355953851,0 -55.50643243959608,-12.01406818094345,0 -55.50595784153517,-12.01425716536503,0 -55.50573313651179,-12.01425323322938,0 -55.50555601683379,-12.01417308369966,0 -55.50537346917366,-12.01407105602112,0 -55.50541630440623,-12.01385006362236,0 -55.50528119161429,-12.01369912918972,0 -55.505068548883,-12.01352046886016,0 -55.50484162793179,-12.01341547249392,0 -55.50492114694502,-12.01320745805954,0 -55.50502225381252,-12.01305341264869,0 -55.50542714345394,-12.01313081321777,0 -55.50593472038094,-12.01310221965763,0 -55.50690805998744,-12.01283499955207,0 -55.50760005395713,-12.01267934325654,0 
 										</coordinates>
 									</LinearRing>
 								</outerBoundaryIs>
@@ -14809,14 +13616,106 @@
 			<StyleMap id="PolyStyle001410">
 				<Pair>
 					<key>normal</key>
+					<styleUrl>#PolyStyle001622</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#PolyStyle0015100</styleUrl>
+				</Pair>
+			</StyleMap>
+			<StyleMap id="PolyStyle0014100">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#PolyStyle001623</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#PolyStyle0015101</styleUrl>
+				</Pair>
+			</StyleMap>
+			<StyleMap id="PolyStyle0014101">
+				<Pair>
+					<key>normal</key>
 					<styleUrl>#PolyStyle00162</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#PolyStyle0015103</styleUrl>
+				</Pair>
+			</StyleMap>
+			<StyleMap id="PolyStyle0014102">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#PolyStyle001621</styleUrl>
 				</Pair>
 				<Pair>
 					<key>highlight</key>
 					<styleUrl>#PolyStyle001510</styleUrl>
 				</Pair>
 			</StyleMap>
+			<StyleMap id="PolyStyle0014103">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#PolyStyle001620</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#PolyStyle0015102</styleUrl>
+				</Pair>
+			</StyleMap>
 			<Style id="PolyStyle001510">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00b3dffc</color>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<Style id="PolyStyle0015100">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00b3dffc</color>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<Style id="PolyStyle0015101">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00b3dffc</color>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<Style id="PolyStyle0015102">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00b3dffc</color>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<Style id="PolyStyle0015103">
 				<LabelStyle>
 					<color>00000000</color>
 					<scale>0</scale>
@@ -14842,184 +13741,66 @@
 					<fill>0</fill>
 				</PolyStyle>
 			</Style>
+			<Style id="PolyStyle001620">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00b3dffc</color>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<Style id="PolyStyle001621">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00b3dffc</color>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<Style id="PolyStyle001622">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00b3dffc</color>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<Style id="PolyStyle001623">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00b3dffc</color>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
 			<Folder id="FeatureLayer0">
-				<name>Área_Arrendada_Milton</name>
+				<name>FAZENDA SANTA HELENA_ARRENDAMENTO</name>
 				<snippet></snippet>
 				<Placemark id="ID_00000">
-					<name>a88f8968-9928-4bca-aefe-8bdbcbfbd7b4</name>
+					<name>FAZENDA SANTA HELENA_ARRENDAMENTO</name>
 					<snippet></snippet>
-					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>a88f8968-9928-4bca-aefe-8bdbcbfbd7b4</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>FID_Lotes_</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>qrcode</td>
-
-<td>a88f8968-9928-4bca-aefe-8bdbcbfbd7b4</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>nome</td>
-
-<td></td>
-
-</tr>
-
-<tr>
-
-<td>FID_Lote_7</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>qrcode_1</td>
-
-<td></td>
-
-</tr>
-
-<tr>
-
-<td>nome_1</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>FID_Fazend</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr>
-
-<td>qrcode_12</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>nome_12</td>
-
-<td></td>
-
-</tr>
-
-<tr>
-
-<td>FID_Lote_5</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>qrcode__13</td>
-
-<td></td>
-
-</tr>
-
-<tr>
-
-<td>nome_12_13</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>FID_Lote_8</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr>
-
-<td>qrcode__14</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>nome_12_14</td>
-
-<td></td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body><script type="text/javascript">
-
-				function changeImage(attElement, nameElement) {
-
-				document.getElementById('imageAttachment').src = attElement;
-
-				document.getElementById('imageName').innerHTML = nameElement;}
-
-			</script></html>]]></description>
-					<styleUrl>#PolyStyle001410</styleUrl>
+					<description>FAZENDA SANTA HELENA_ARRENDAMENTO</description>
+					<styleUrl>#PolyStyle0014100</styleUrl>
 					<MultiGeometry>
 						<Polygon>
 							<outerBoundaryIs>
@@ -15033,179 +13814,10 @@
 					</MultiGeometry>
 				</Placemark>
 				<Placemark id="ID_00001">
+					<name>FAZENDA SANTA HELENA_ARRENDAMENTO</name>
 					<snippet></snippet>
-					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td> </td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>FID_Lotes_</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr>
-
-<td>qrcode</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>nome</td>
-
-<td></td>
-
-</tr>
-
-<tr>
-
-<td>FID_Lote_7</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>qrcode_1</td>
-
-<td>cdaf000d-20c6-4bcc-9b86-752dabb6ec51</td>
-
-</tr>
-
-<tr>
-
-<td>nome_1</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>FID_Fazend</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr>
-
-<td>qrcode_12</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>nome_12</td>
-
-<td></td>
-
-</tr>
-
-<tr>
-
-<td>FID_Lote_5</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>qrcode__13</td>
-
-<td></td>
-
-</tr>
-
-<tr>
-
-<td>nome_12_13</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>FID_Lote_8</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr>
-
-<td>qrcode__14</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>nome_12_14</td>
-
-<td></td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body><script type="text/javascript">
-
-				function changeImage(attElement, nameElement) {
-
-				document.getElementById('imageAttachment').src = attElement;
-
-				document.getElementById('imageName').innerHTML = nameElement;}
-
-			</script></html>]]></description>
-					<styleUrl>#PolyStyle001410</styleUrl>
+					<description>FAZENDA SANTA HELENA_ARRENDAMENTO</description>
+					<styleUrl>#PolyStyle0014101</styleUrl>
 					<MultiGeometry>
 						<Polygon>
 							<outerBoundaryIs>
@@ -15219,179 +13831,10 @@
 					</MultiGeometry>
 				</Placemark>
 				<Placemark id="ID_00002">
+					<name>FAZENDA SANTA HELENA_ARRENDAMENTO</name>
 					<snippet></snippet>
-					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td> </td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>2</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>FID_Lotes_</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr>
-
-<td>qrcode</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>nome</td>
-
-<td></td>
-
-</tr>
-
-<tr>
-
-<td>FID_Lote_7</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>qrcode_1</td>
-
-<td></td>
-
-</tr>
-
-<tr>
-
-<td>nome_1</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>FID_Fazend</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>qrcode_12</td>
-
-<td>a6837fec-7986-4ffb-8bbc-ef5c33e008d8</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>nome_12</td>
-
-<td>aREA REMANESCENTE  FAZENDA NOSSA SENHORA APARECIDA I</td>
-
-</tr>
-
-<tr>
-
-<td>FID_Lote_5</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>qrcode__13</td>
-
-<td></td>
-
-</tr>
-
-<tr>
-
-<td>nome_12_13</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>FID_Lote_8</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr>
-
-<td>qrcode__14</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>nome_12_14</td>
-
-<td></td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body><script type="text/javascript">
-
-				function changeImage(attElement, nameElement) {
-
-				document.getElementById('imageAttachment').src = attElement;
-
-				document.getElementById('imageName').innerHTML = nameElement;}
-
-			</script></html>]]></description>
-					<styleUrl>#PolyStyle001410</styleUrl>
+					<description>FAZENDA SANTA HELENA_ARRENDAMENTO</description>
+					<styleUrl>#PolyStyle0014103</styleUrl>
 					<MultiGeometry>
 						<Polygon>
 							<outerBoundaryIs>
@@ -15405,178 +13848,9 @@
 					</MultiGeometry>
 				</Placemark>
 				<Placemark id="ID_00003">
+					<name>FAZENDA SANTA HELENA_ARRENDAMENTO</name>
 					<snippet></snippet>
-					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td> </td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>3</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>FID_Lotes_</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr>
-
-<td>qrcode</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>nome</td>
-
-<td></td>
-
-</tr>
-
-<tr>
-
-<td>FID_Lote_7</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>qrcode_1</td>
-
-<td></td>
-
-</tr>
-
-<tr>
-
-<td>nome_1</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>FID_Fazend</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr>
-
-<td>qrcode_12</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>nome_12</td>
-
-<td></td>
-
-</tr>
-
-<tr>
-
-<td>FID_Lote_5</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>qrcode__13</td>
-
-<td>b1bef888-9929-4895-9620-9e21152e7e42</td>
-
-</tr>
-
-<tr>
-
-<td>nome_12_13</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>FID_Lote_8</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr>
-
-<td>qrcode__14</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>nome_12_14</td>
-
-<td></td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body><script type="text/javascript">
-
-				function changeImage(attElement, nameElement) {
-
-				document.getElementById('imageAttachment').src = attElement;
-
-				document.getElementById('imageName').innerHTML = nameElement;}
-
-			</script></html>]]></description>
+					<description>FAZENDA SANTA HELENA_ARRENDAMENTO</description>
 					<styleUrl>#PolyStyle001410</styleUrl>
 					<MultiGeometry>
 						<Polygon>
@@ -15591,179 +13865,10 @@
 					</MultiGeometry>
 				</Placemark>
 				<Placemark id="ID_00004">
+					<name>FAZENDA SANTA HELENA_ARRENDAMENTO</name>
 					<snippet></snippet>
-					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td> </td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>4</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>FID_Lotes_</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr>
-
-<td>qrcode</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>nome</td>
-
-<td></td>
-
-</tr>
-
-<tr>
-
-<td>FID_Lote_7</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>qrcode_1</td>
-
-<td></td>
-
-</tr>
-
-<tr>
-
-<td>nome_1</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>FID_Fazend</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr>
-
-<td>qrcode_12</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>nome_12</td>
-
-<td></td>
-
-</tr>
-
-<tr>
-
-<td>FID_Lote_5</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>qrcode__13</td>
-
-<td></td>
-
-</tr>
-
-<tr>
-
-<td>nome_12_13</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>FID_Lote_8</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>qrcode__14</td>
-
-<td>c32a204b-3173-4b3f-ad59-229e77dac6bc</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>nome_12_14</td>
-
-<td>PARTE I</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body><script type="text/javascript">
-
-				function changeImage(attElement, nameElement) {
-
-				document.getElementById('imageAttachment').src = attElement;
-
-				document.getElementById('imageName').innerHTML = nameElement;}
-
-			</script></html>]]></description>
-					<styleUrl>#PolyStyle001410</styleUrl>
+					<description>FAZENDA SANTA HELENA_ARRENDAMENTO</description>
+					<styleUrl>#PolyStyle0014102</styleUrl>
 					<MultiGeometry>
 						<Polygon>
 							<outerBoundaryIs>
@@ -15846,7 +13951,7 @@
 				</Folder>
 			</Document>
 			<Document id="root_doc">
-				<name>perimetro1.kml</name>
+				<name>Fazenda Atalaia.kml</name>
 				<Schema name="perimetro" id="perimetro40">
 					<SimpleField type="float" name="id"></SimpleField>
 					<SimpleField type="float" name="area_ha"></SimpleField>
@@ -15881,8 +13986,10 @@
 					</Pair>
 				</StyleMap>
 				<Folder>
-					<name>perimetro</name>
+					<name>Fazenda Atalaia</name>
 					<Placemark>
+						<name>Fazenda Atalaia</name>
+						<description>Fazenda Atalaia</description>
 						<styleUrl>#stylemap_id70</styleUrl>
 						<ExtendedData>
 							<SchemaData schemaUrl="#perimetro40">
@@ -15906,7 +14013,7 @@
 				</Folder>
 			</Document>
 			<Document id="root_doc">
-				<name>talhonamento2.kml</name>
+				<name>Talhonamento Fazenda Atalaia.kml</name>
 				<Schema name="talhonamento" id="talhonamento50">
 					<SimpleField type="int" name="Id"></SimpleField>
 					<SimpleField type="string" name="variedade"></SimpleField>
@@ -15915,7 +14022,8 @@
 					<SimpleField type="string" name="descricao"></SimpleField>
 				</Schema>
 				<Folder>
-					<name>talhonamento</name>
+					<name>Talhonamento Fazenda Atalaia</name>
+					<description>Talhonamento Fazenda Atalaia</description>
 					<Placemark>
 						<Style>
 							<LineStyle>
@@ -16472,7 +14580,8 @@
 				<SimpleField type="string" name="status"></SimpleField>
 			</Schema>
 			<Document id="root_doc">
-				<name>perimetro1.kml</name>
+				<name>Fazenda Barrinha.kml</name>
+				<open>1</open>
 				<Schema name="perimetro" id="perimetro60">
 					<SimpleField type="float" name="area_ha"></SimpleField>
 					<SimpleField type="float" name="id"></SimpleField>
@@ -16506,8 +14615,10 @@
 					</Pair>
 				</StyleMap>
 				<Folder>
-					<name>perimetro</name>
+					<name>Fazenda Barrinha</name>
 					<Placemark>
+						<name>Fazenda Barrinha</name>
+						<description>Fazenda Barrinha</description>
 						<styleUrl>#stylemap_id22</styleUrl>
 						<ExtendedData>
 							<SchemaData schemaUrl="#perimetro60">
@@ -16530,7 +14641,9 @@
 				</Folder>
 			</Document>
 			<Folder>
-				<name>talhonamento</name>
+				<name>Talhonamento Fazenda Barrinha</name>
+				<open>1</open>
+				<description>Talhonamento Fazenda Barrinha</description>
 				<Placemark>
 					<Style>
 						<LineStyle>
@@ -17236,7 +15349,7 @@
 				</PolyStyle>
 			</Style>
 			<Document id="Buffer_Conglomerado Nova Marilandia" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
-				<name>Complexo_Parecis_Raio_10km</name>
+				<name>Complexo_Parecis</name>
 				<snippet></snippet>
 				<Style id="PolyStyle00">
 					<LabelStyle>
@@ -17277,10 +15390,11 @@
 					</Pair>
 				</StyleMap>
 				<Folder id="FeatureLayer0">
-					<name>Complexo_Parecis_Raio_10km</name>
+					<name>Complexo_Parecis</name>
+					<open>1</open>
 					<snippet></snippet>
 					<Placemark id="ID_00000">
-						<name>Complexo_Parecis_Raio</name>
+						<name>Complexo_Parecis</name>
 						<snippet></snippet>
 						<description>Complexo_Parecis_Raio</description>
 						<styleUrl>#PolyStyle001</styleUrl>
@@ -17336,6 +15450,7 @@
 				</StyleMap>
 				<Folder>
 					<name>perimetro</name>
+					<open>1</open>
 					<Placemark>
 						<styleUrl>#stylemap_id12</styleUrl>
 						<ExtendedData>
@@ -17917,6 +16032,7 @@
 				<Placemark id="ID_00000">
 					<name>FAZENDA RIO VERDE</name>
 					<snippet></snippet>
+					<description>FAZENDA RIO VERDE</description>
 					<styleUrl>#PolyStyle002</styleUrl>
 					<MultiGeometry>
 						<Polygon>
@@ -17981,6 +16097,8 @@
 			<Folder>
 				<name>perimetro</name>
 				<Placemark>
+					<name>FAZENDA PÉ DA SERRA</name>
+					<description>FAZENDA PÉ DA SERRA</description>
 					<styleUrl>#stylemap_id50</styleUrl>
 					<ExtendedData>
 						<SchemaData schemaUrl="#perimetro30">
@@ -19392,74 +17510,9 @@
 				<name>Fazenda_Azul</name>
 				<snippet></snippet>
 				<Placemark id="ID_20000">
+					<name>FAZENDA AZUL</name>
 					<snippet></snippet>
-					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td> </td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>_DUMMY</td>
-
-<td></td>
-
-</tr>
-
-<tr>
-
-<td>area</td>
-
-<td>1016,896</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body><script type="text/javascript">
-
-				function changeImage(attElement, nameElement) {
-
-				document.getElementById('imageAttachment').src = attElement;
-
-				document.getElementById('imageName').innerHTML = nameElement;}
-
-			</script></html>]]></description>
+					<description>FAZENDA AZUL</description>
 					<styleUrl>#PolyStyle20</styleUrl>
 					<MultiGeometry>
 						<Polygon>
@@ -20305,7 +18358,8 @@
 			<name>FAZENDA SANTA MARIA</name>
 			<Snippet maxLines="0"></Snippet>
 			<Document id="root_doc">
-				<name>perimetro.kml</name>
+				<name>FAZENDA SANTA MARIA</name>
+				<description>FAZENDA SANTA MARIA</description>
 				<Schema name="perimetro" id="perimetro20">
 					<SimpleField type="string" name="descriptio"></SimpleField>
 					<SimpleField type="string" name="timestamp"></SimpleField>
@@ -20348,10 +18402,11 @@
 					</Pair>
 				</StyleMap>
 				<Folder>
-					<name>perimetro</name>
+					<name>FAZENDA SANTA MARIA</name>
 					<open>1</open>
 					<Placemark>
-						<name>0</name>
+						<name>FAZENDA SANTA MARIA</name>
+						<description>FAZENDA SANTA MARIA</description>
 						<styleUrl>#stylemap_id40</styleUrl>
 						<ExtendedData>
 							<SchemaData schemaUrl="#perimetro20">
@@ -20387,7 +18442,7 @@
 				</Folder>
 			</Document>
 			<Document id="root_doc">
-				<name>talhonamento.kml</name>
+				<name>TALHONAMENTO FAZENDA SANTA MARIA</name>
 				<Schema name="talhonamento" id="talhonamento30">
 					<SimpleField type="float" name="id"></SimpleField>
 					<SimpleField type="float" name="area_ha"></SimpleField>
@@ -20397,7 +18452,9 @@
 					<SimpleField type="string" name="prestador"></SimpleField>
 				</Schema>
 				<Folder>
-					<name>talhonamento</name>
+					<name>TALHONAMENTO FAZENDA SANTA MARIA</name>
+					<open>1</open>
+					<description>TALHONAMENTO FAZENDA SANTA MARIA</description>
 					<Placemark>
 						<Style>
 							<LineStyle>
@@ -21475,7 +19532,10 @@
 			</Document>
 			<Folder>
 				<name>perimetro</name>
+				<open>1</open>
 				<Placemark>
+					<name>FAZENDA TROPICAL</name>
+					<description>FAZENDA TROPICAL</description>
 					<styleUrl>#stylemap_id30</styleUrl>
 					<ExtendedData>
 						<SchemaData schemaUrl="#perimetro11">
