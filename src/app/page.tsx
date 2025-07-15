@@ -30,7 +30,7 @@ export default function Home() {
           {/* AQUI ESTÁ A MUDANÇA PRINCIPAL: flex-col e ml-4 */}
           <div className="flex flex-col ml-4">
             <h1 className="text-lg font-semibold text-black-700">Monitoramento de Incêndios Florestais</h1>
-            <p className="text-xs text-black-500 mt-0.5">Desenvolvido por ForestryLab - Inovações e Tecnologias Florestais</p>
+            <p className="text-xs text-black-500 mt-0.5">Desenvolvido pelo Setor de Meio Ambiente - Infiniti Agro</p>
             <p className="text-xs text-black-500 mt-0.5"><a href="http://www.forestrylab.com.br" target="_blank" rel="noopener noreferrer">www.forestrylab.com.br</a></p>
           </div>
       </header>

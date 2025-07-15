@@ -14,8 +14,8 @@ interface MapComponentProps {
 const inpeUrls = [
   'https://dataserver-coids.inpe.br/queimadas/queimadas/focos/kml/estados-48h/focos_frentes_MT.kml',
   'https://dataserver-coids.inpe.br/queimadas/queimadas/focos/kml/estados-48h/focos_frentes_MS.kml',
-  //'https://dataserver-coids.inpe.br/queimadas/queimadas/focos/kml/estados-48h/focos_frentes_BA.kml',
-  //'https://dataserver-coids.inpe.br/queimadas/queimadas/focos/kml/estados-48h/focos_frentes_MA.kml'
+  'https://dataserver-coids.inpe.br/queimadas/queimadas/focos/kml/estados-48h/focos_frentes_BA.kml',
+  'https://dataserver-coids.inpe.br/queimadas/queimadas/focos/kml/estados-48h/focos_frentes_MA.kml',
 ];
 
 // Custom icon for fire points
