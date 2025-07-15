@@ -278,7 +278,7 @@ const MapComponent: React.FC<MapComponentProps> = ({ center, zoom }) => {
       // Load Farm KML data
       const farmKMLs = [
         { url: 
-          '/doc.kml', name: 'Estados brasileiros' 
+          '/doc.kml', name: 'Propriedades Infiniti e Industrias INPASA' 
         },
         // Adicione mais KMLs aqui, por exemplo:
         // { url: '/outra_fazenda.kml', name: 'Outra Fazenda' },
