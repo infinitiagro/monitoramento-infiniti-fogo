@@ -173,10 +173,10 @@ const MapComponent: React.FC<MapComponentProps> = ({ center, zoom }) => {
       const newFarmLayer = L.geoJSON(geojson as any, {
         style: function (feature) {
           let style: L.PathOptions = {
-            color: "#fcb4d4", // Cor vermelha padrão para melhor visibilidade
+            color: "#FFFF00", // Cor vermelha padrão para melhor visibilidade
             weight: 3, 
             opacity: 0.8, 
-            fillOpacity: 0.2,
+            fillOpacity: 0.0,
             fillColor: "#ffffff"
           };
           
@@ -184,19 +184,19 @@ const MapComponent: React.FC<MapComponentProps> = ({ center, zoom }) => {
           if (feature?.properties?.styleUrl) {
             if (feature.properties.styleUrl.includes("PolyStyle007")) { 
               style.color = "#ffffff"; 
-              style.fillColor = "#fcb4d4";
-              style.fillOpacity = 0.1; 
+              style.fillColor = ""#FFFF00"";
+              style.fillOpacity = 0.0; 
               style.weight = 2;
             } else if (feature.properties.styleUrl.includes("PolyStyle0012")) { 
-              style.color = "#fcb4d4"; 
-              style.fillColor = "#fcb4d4";
-              style.fillOpacity = 0.1; 
+              style.color = ""#FFFF00""; 
+              style.fillColor = ""#FFFF00"";
+              style.fillOpacity = 0.0; 
               style.weight = 2;
             } else if (feature.properties.styleUrl.includes("PolyStyle00159")) {
               // Estilo do KML fornecido
-              style.color = "#f0f0f0";
-              style.fillColor = "#f0f0f0";
-              style.fillOpacity = 0.07;
+              style.color = ""#FFFF00"";
+              style.fillColor = ""#FFFF00"";
+              style.fillOpacity = 0.00;
               style.weight = 3;
             }
           }
